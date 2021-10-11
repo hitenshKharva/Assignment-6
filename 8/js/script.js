@@ -1,5 +1,4 @@
 
-window.confirm("Are you 18 yrs or older?");
 
 var num = window.prompt("Enter the number to countdown from:");
 num = parseInt(num, 10);
